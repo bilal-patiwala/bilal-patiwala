@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ChitChat**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **How to build Channels and Web Sockets in django and integrate with React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bilal-patiwala](https://github.com/bilal-patiwala)
 
