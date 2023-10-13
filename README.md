@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-patiwala" alt="bilal-patiwala" /></a> </p>
 
-- 🔭 I’m currently working on **ChitChat**
+- 🔭 I’m currently working on **BeCommunity**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **DataCompression**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bilal-patiwala](https://github.com/bilal-patiwala)
 
