@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-patiwala&show_icons=true&locale=en&layout=compact" alt="bilal-patiwala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-patiwala&show_icons=true&locale=en" alt="bilal-patiwala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-patiwala&" alt="bilal-patiwala" /></p>
